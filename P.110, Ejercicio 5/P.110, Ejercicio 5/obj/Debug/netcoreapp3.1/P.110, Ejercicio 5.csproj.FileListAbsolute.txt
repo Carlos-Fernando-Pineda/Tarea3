@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\obj\Debug\netcoreapp3.1\P.110, Ejercicio 5.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\obj\Debug\netcoreapp3.1\P.110, Ejercicio 5.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\obj\Debug\netcoreapp3.1\P.110, Ejercicio 5.AssemblyInfo.cs
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\obj\Debug\netcoreapp3.1\P.110, Ejercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\bin\Debug\netcoreapp3.1\P.110, Ejercicio 5.exe
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\bin\Debug\netcoreapp3.1\P.110, Ejercicio 5.deps.json
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\bin\Debug\netcoreapp3.1\P.110, Ejercicio 5.runtimeconfig.json
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\bin\Debug\netcoreapp3.1\P.110, Ejercicio 5.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\bin\Debug\netcoreapp3.1\P.110, Ejercicio 5.dll
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\bin\Debug\netcoreapp3.1\P.110, Ejercicio 5.pdb
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\obj\Debug\netcoreapp3.1\P.110, Ejercicio 5.dll
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\obj\Debug\netcoreapp3.1\P.110, Ejercicio 5.pdb
+C:\Users\carlo\source\repos\P.110, Ejercicio 5\P.110, Ejercicio 5\obj\Debug\netcoreapp3.1\P.110, Ejercicio 5.genruntimeconfig.cache
